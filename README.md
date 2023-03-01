@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **vue and angular**
 
-- 💬 Ask me about **react, c, c++, js and ts**
+- 💬 Ask me about **react, react native, c, c++, js and ts**
 
 - 📫 How to reach me **lisa.glaziou@epitech.eu**
 
