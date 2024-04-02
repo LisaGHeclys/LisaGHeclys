@@ -5,9 +5,9 @@
 
 - 💬 Ask me about **react, react native, c, c++, js and ts**
 
-- 📫 How to reach me **lisa.glaziou@epitech.eu**
+- 📫 How to reach me **lisa.glaziou@gmail.com**
 
-- ⚡ Fun fact **I love learning languages and dancing**
+- ⚡ Fun fact **I love learning languages and dancing (when I have the same I also bore myself with writing documentations)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
