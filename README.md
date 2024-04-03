@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Lisa</h1>
+<h1 align="center">Hi 👋, I'm Lisa Mai Linh</h1>
 <h3 align="center">A passionate frontend developer and ui/ux enjoyer from France</h3>
 
-- 🌱 I’m currently learning **kotlin and angular**
+- 🌱 I’m currently learning **kotlin**
 
 - 💬 Ask me about **react, react native, c, c++, js and ts**
 
