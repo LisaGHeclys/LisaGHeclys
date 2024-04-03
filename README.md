@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **lisa.glaziou@gmail.com**
 
-- ⚡ Fun fact **I love learning languages and dancing (when I have the same I also bore myself with writing documentations)**
+- ⚡ Fun fact **I love learning languages and dancing (when I have the time, I also bore myself with writing articles)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
