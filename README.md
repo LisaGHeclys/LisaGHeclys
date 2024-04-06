@@ -6,8 +6,12 @@
 - 💬 Ask me about **react, react native, c, c++, js and ts**
 
 - 📫 How to reach me **lisa.glaziou@gmail.com**
+  
+- 💻 **<a href="https://www.lisamlglaziou.fr/">My Portfolio</a>**
 
 - ⚡ Fun fact **I love learning languages and dancing (when I have the time, I also bore myself with writing articles)**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
