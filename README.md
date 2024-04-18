@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **kotlin**
 
-- 💬 Ask me about **react, react native, c, c++, js and ts**
+- 💬 Ask me about **react, react native, kotlin, c, c++, js and ts**
 
 - 📫 How to reach me **lisa.glaziou@gmail.com**
   
