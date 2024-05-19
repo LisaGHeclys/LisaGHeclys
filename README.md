@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I love learning languages and dancing (when I have the time, I also bore myself with writing articles)**
 
-
+<img align="center" src="https://chart-studio.plotly.com/~Lisouille/0.png" alt="https://chart-studio.plotly.com/~Lisouille/0.png" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
