@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lisa Mai Linh</h1>
 <h3 align="center">A passionate frontend developer and ui/ux enjoyer from France</h3>
 
-- 🌱 I’m currently learning **kotlin**
+- 🌱 I’m currently learning **nextJS**
 
-- 💬 Ask me about **react, react native, kotlin, c, c++, js and ts**
+- 💬 Ask me about **next, react, react native, kotlin, c, c++, js and ts**
 
 - 📫 How to reach me **lisa.glaziou@gmail.com**
   
