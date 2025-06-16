@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lisa Mai Linh Glaziou</h1>
 <h3 align="center">Mobile & Frontend dev crafting sleek, fun user experiences. UI/UX enthusiast from France !</h3>
 
-- 🌱 I’m currently learning **nextJS**
+- 🌱 I’m currently learning **Express**, **NodeJS** and **Go**
 
 - 💬 Ask me about **next, react, react native, kotlin, c, c++, js and ts**
 
