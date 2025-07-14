@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **lisa.glaziou@gmail.com**
   
-- 💻 **<a href="https://www.lisamlglaziou.fr/">My Portfolio</a>**
+- 💻 **<a href="https://lisaglaziou.framer.website">My Portfolio</a>**
 
 - 💪 **<a href="https://leetcode.com/u/Maimaimai1234/">My LeetCode page</a>**
 
